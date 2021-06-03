@@ -1,4 +1,3 @@
-package FileWork;
 import javax.imageio.IIOException;
 import java.io.File;
 import java.io.FileWriter;
